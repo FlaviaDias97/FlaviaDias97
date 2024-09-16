@@ -5,11 +5,9 @@
 👩🏾‍💻 About Me:
 I’m a self-taught frontend developer with a background in both creative arts and healthcare. 
 My journey into coding began with curiosity and has since grown into a full-blown passion for web development.
-
 With a degree in Creative Arts, I bring a unique, design-oriented perspective to my work. 
 Whether it's crafting sleek, responsive designs or creating pixel-perfect, user-friendly interfaces, 
 I’m always looking for ways to merge my artistic vision with clean, efficient code. 🖼️✨
-
 Through self-learning and intensive coding bootcamps, I've honed my technical skills and problem-solving abilities. 
 I'm a continuous learner who loves staying up-to-date with the latest in tech and web development trends.
 
