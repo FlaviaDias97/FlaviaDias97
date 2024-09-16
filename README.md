@@ -17,6 +17,9 @@ HTML5 & CSS3 - Building clean, semantic structures and styling responsive layout
 JavaScript - Creating dynamic, interactive user experiences.
 Bootstrap & Tailwind CSS - Enhancing designs with frameworks and libraries.
 
+Version Control
+Git & GitHub - Collaborating on code and maintaining version control.
+
 🌱 What I'm Learning:
 Responsive Design - Ensuring my designs look good on all screen sizes.
 Improving my skills in React for larger-scale web applications.
