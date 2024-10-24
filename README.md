@@ -1,4 +1,4 @@
-## 👋🏾 Hi there, I'm Flávia!
+## 👋🏾 Ola, I'm Flávia!
 🌐 Frontend Developer | Creative Thinker | Lifelong Learner
 📍 Based in the UK | 👩🏾‍💻 Passionate about crafting intuitive and visually appealing web experiences
 
