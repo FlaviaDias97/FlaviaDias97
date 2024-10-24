@@ -1,9 +1,9 @@
-## 👋🏾 Hi there, I'm Flávia Dias!
+## 👋🏾 Hi there, I'm Flávia!
 🌐 Frontend Developer | Creative Thinker | Lifelong Learner
 📍 Based in the UK | 👩🏾‍💻 Passionate about crafting intuitive and visually appealing web experiences
 
 👩🏾‍💻 About Me:
-I’m a self-taught frontend developer with a background in both creative arts and healthcare. 
+I’m a self-taught front-end developer with a background in both creative arts and healthcare. 
 My journey into coding began with curiosity and has since grown into a full-blown passion for web development.
 With a degree in Creative Arts, I bring a unique, design-oriented perspective to my work. 
 Whether it's crafting sleek, responsive designs or creating pixel-perfect, user-friendly interfaces, 
