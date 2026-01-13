@@ -1,30 +1,21 @@
-## 👋🏾 Ola, I'm Flávia!
-🌐 Frontend Developer | Creative Thinker | Lifelong Learner
-📍 Based in the UK | 👩🏾‍💻 Passionate about crafting intuitive and visually appealing web experiences
+💻 Junior Frontend Developer | Creative Problem-Solver
 
-👩🏾‍💻 About Me:
-I’m a self-taught front-end developer with a background in both creative arts and healthcare. 
-My journey into coding began with curiosity and has since grown into a full-blown passion for web development.
-With a degree in Creative Arts, I bring a unique, design-oriented perspective to my work. 
-Whether it's crafting sleek, responsive designs or creating pixel-perfect, user-friendly interfaces, 
-I’m always looking for ways to merge my artistic vision with clean, efficient code.✨
-Through self-learning and intensive coding bootcamps, I've honed my technical skills and problem-solving abilities. 
-I'm a continuous learner who loves staying up-to-date with the latest in tech and web development trends.
+Hi, I’m Flávia 👋 A junior frontend developer with a background in creative arts and healthcare, passionate about building responsive, accessible, and user-friendly web interfaces.
 
-🛠️ Tech Skills:
-Frontend Development 
-HTML5 & CSS3 - Building clean, semantic structures and styling responsive layouts.
-JavaScript - Creating dynamic, interactive user experiences.
-Bootstrap & Tailwind CSS - Enhancing designs with frameworks and libraries.
+I primarily work with HTML, CSS, JavaScript, and React, and enjoy transforming ideas into clean, intuitive user experiences. I’m currently strengthening my React skills through hands-on projects, focusing on component-based design and interactive UI development.
 
-Version Control
-Git & GitHub - Collaborating on code and maintaining version control.
+🎨 Creative & User-Focused
+My background in the creative arts helps me approach frontend development with both structure and creativity, balancing visual design with functionality and usability.
 
-🌱 What I'm Learning:
-Responsive Design - Ensuring my designs look good on all screen sizes.
-Improving my skills in React for larger-scale web applications.
-Learning Node.js and Express to deepen my understanding of full-stack development.
-Exploring API integration and backend technologies.
+🛠 Technical Skills
+
+HTML, CSS (Flexbox, Grid, responsive design)
+JavaScript (ES6, DOM manipulation)
+React (components, props, state – learning in practice)
+Git, GitHub, VS Code, Chrome DevTools
+
+🚀 Open to Opportunities
+I’m currently seeking junior frontend developer or junior web developer roles within the UK, where I can continue to grow, contribute to real products, and learn within a supportive team environment
 
 💬 Let's Connect:
 I love collaborating with other developers, designers, and anyone passionate about creating great things! If it's for a project, mentorship, or just a chat, feel free to let me know.
