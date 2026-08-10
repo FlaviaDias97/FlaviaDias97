@@ -1,6 +1,6 @@
 Hi, I’m Flávia 👋
 
-I’m an aspiring healthcare data analyst / health-tech professional with a background in healthcare and creative arts, combining technical skills with a strong focus on clarity, accessibility and user-centred problem-solving.
+I’m a healthcare data and digital health professional focused on using data and technology to improve healthcare systems, with a background in healthcare and creative arts, combining technical skills with a strong focus on clarity, accessibility and user-centred problem-solving.
 
 I’m particularly interested in using data and technology to improve healthcare services, operational decision-making and patient-facing systems.
 
